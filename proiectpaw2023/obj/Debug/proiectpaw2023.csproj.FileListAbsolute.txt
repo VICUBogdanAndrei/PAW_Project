@@ -1,0 +1,11 @@
+C:\Users\J1\Desktop\proiectpaw2023\bin\Debug\proiectpaw2023.exe.config
+C:\Users\J1\Desktop\proiectpaw2023\bin\Debug\proiectpaw2023.exe
+C:\Users\J1\Desktop\proiectpaw2023\bin\Debug\proiectpaw2023.pdb
+C:\Users\J1\Desktop\proiectpaw2023\obj\Debug\proiectpaw2023.csproj.AssemblyReference.cache
+C:\Users\J1\Desktop\proiectpaw2023\obj\Debug\proiectpaw2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\J1\Desktop\proiectpaw2023\obj\Debug\proiectpaw2023.MainForm.resources
+C:\Users\J1\Desktop\proiectpaw2023\obj\Debug\proiectpaw2023.Properties.Resources.resources
+C:\Users\J1\Desktop\proiectpaw2023\obj\Debug\proiectpaw2023.csproj.GenerateResource.cache
+C:\Users\J1\Desktop\proiectpaw2023\obj\Debug\proiectpaw2023.csproj.CoreCompileInputs.cache
+C:\Users\J1\Desktop\proiectpaw2023\obj\Debug\proiectpaw2023.exe
+C:\Users\J1\Desktop\proiectpaw2023\obj\Debug\proiectpaw2023.pdb
